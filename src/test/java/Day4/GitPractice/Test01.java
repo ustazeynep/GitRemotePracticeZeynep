@@ -1,9 +1,9 @@
 package Day4.GitPractice;
 
-public class Day4 {
+public class Test01 {
 
     public static void main(String[] args) {
-        System.out.println("This is day 4");
+        System.out.println("This is Test01");
     }
 
 }
